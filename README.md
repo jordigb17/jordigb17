@@ -23,7 +23,7 @@ Bienvenid@ a mi espacio en GitHub. Soy un **desarrollador full stack en formaci�
 - *(Actualizo esto a medida que sigo aprendiendo y creando)*.
 
 ## 📫 Conectemos
-- [jordi.gargallo@email.com] (o tu red social si quieres añadirla).
+- jordigb_17@proton.me
 - ¡Siempre abierto a consejos, ideas o colaboraciones!
 
 
