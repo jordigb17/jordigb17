@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/jordigb17/jordigb17/blob/main/BANNER.png" alt="Banner de Jordi Gargallo" width="800"/>
+  <img src="https://github.com/jordigb17/jordigb17/blob/main/BANNER.png" alt="Banner de Jordi Gargallo" width="1000"/>
 </div>
 
 # ¡Hola, soy Jordi Gargallo Barreda! 👋
