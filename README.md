@@ -23,7 +23,7 @@ Bienvenid@ a mi espacio en GitHub. Soy un **desarrollador full stack en formaci�
 - *(Actualizo esto a medida que sigo aprendiendo y creando)*.
 
 ## 📫 Conectemos
-- jordigb_17@proton.me
+- 📧 jordigb_17@proton.me
 - ¡Siempre abierto a consejos, ideas o colaboraciones!
 
 
