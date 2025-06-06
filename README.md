@@ -8,14 +8,16 @@ Bienvenid@ a mi espacio en GitHub. Soy un **desarrollador full stack en formaci�
 
 ## 🚀 Sobre mí
 - 🌱 **Aprendiendo:** Full Stack Development, empezando por el frontend y preparándome para el backend.
-- 💻 **Habilidades actuales:** HTML para estructurar webs y Python para lógica y automatización.
+- 💻 **Habilidades actuales:** HTML para estructurar webs, CSS para diseño responsivo y estilizado, y Python para lógica y automatización.
 - 🎯 **Meta:** Dominar el desarrollo full stack y crear aplicaciones completas y funcionales.
 - ⚡ **Dato curioso:** ¡Me encanta ver cómo una línea de código puede dar vida a una idea!
 
 ## 🛠️ Tecnologías que domino (y exploro)
 - **Python**: Automatización y fundamentos de programación.
 - **HTML**: Diseñando estructuras web limpias y sólidas.
-- **En el radar:** CSS, JavaScript, backend (bases de datos, APIs, Flask/Django, SQL...), y más adelante, blockchain (¡una tecnología que me flipa!).
+- **CSS**: Diseño responsive con Flexbox y Grid, uso de SASS para modularidad, y experiencia con Tailwind y Bootstrap según el tipo de proyecto. Familiaridad con animaciones CSS, variables personalizadas y buenas prácticas como BEM.
+- **En el radar:** JavaScript (frontend y backend), desarrollo de APIs, bases de datos relacionales y no relacionales (SQL/NoSQL), y frameworks como React, Node.js, Flask/Django. Estoy ampliando mis conocimientos en arquitecturas de aplicaciones y optimización de rendimiento.
+
 
 ## 🌟 Proyectos destacados
 - **[Automatización de tareas]**: (Enlace: [https://github.com/jordigb17/Automatizacion_tareas](#)).
