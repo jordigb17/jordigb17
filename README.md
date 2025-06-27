@@ -36,7 +36,7 @@ const jordigb = {
 - **[Próximamente]**: Más proyectos mientras avanzo en frontend y backend.
 - *(Actualizo esto a medida que sigo aprendiendo y creando)*.
 
-## 📫 Conectemos
+## 📫 Contact With Me
 - 📧 jordigb_17@proton.me
 - ¡Siempre abierto a consejos, ideas o colaboraciones!
 
