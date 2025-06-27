@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/jordigb17/jordigb17/blob/main/BANNER.png" alt="Banner de Jordi Gargallo" width="1000"/>
+  <img src="https://github.com/jordigb17/jordigb17/blob/f2f649d4236ac4a4e60ecd836c9db68c8f31c5db/banner.png" alt="Banner de Jordi Gargallo" width="1000"/>
 </div>
 
 
@@ -14,8 +14,7 @@ const jordigb = {
   aprendiendo: ["Frontend", "Backend", "Arquitecturas modernas"],
   tecnologías: ["HTML", "CSS", "Python", "SASS", "Tailwind", "Bootstrap"],
   radar: ["JavaScript", "React", "Node.js", "Django", "SQL", "NoSQL", "Flask"],
-  contacto: "jordigb_17@proton.me",
-  lema: "¡Paso a paso, pero con ganas de llegar lejos!"
+  contacto: "jordigb_17@proton.me"
 }
 ```
 
